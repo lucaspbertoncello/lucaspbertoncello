@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+# Sobre mim:
 🚀 Desenvolvedor Front e Back-end<br>🚀 Em busca de uma primeira oportunidade na área<br>🚀 Cursando Ciências da Computação<br>
 
 
