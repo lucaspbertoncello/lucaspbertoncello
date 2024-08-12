@@ -2,10 +2,21 @@
 🚀 Front-end developer<br>🚀 Looking for an opportunity<br>🚀 Studying computer science at PUCPR<br>
 
 # About
-I am a JavaScript enthusiast
+I'm a JavaScript enthusiast, currently studying ReactJS and developing a few projects.<br>
+I have experience with the following technologies:<br>
 <ul>
-  <li></li>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>TailwindCSS</li>
+  <li>ReactJS</li>
+  <li>MySQL</li>
+  <li>PostgreSQL</li>
+  <li>A little bit of UX/UI</li>
 </ul>
+<br>
+Constantly learning...
 
 # Contact
 
