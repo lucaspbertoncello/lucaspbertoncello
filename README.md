@@ -1,5 +1,7 @@
-# Sobre mim
-🚀 Desenvolvedor Front e Back-end<br>🚀 Em busca de uma primeira oportunidade na área<br>🚀 Cursando Ciências da Computação<br>
+# Hi, my name is Lucas!
+
+# About
+🚀 Front-end developer<br>🚀 Looking for an opportunity<br>🚀 Studying computer science at PUCPR<br>
 
 
 # Minha stack
