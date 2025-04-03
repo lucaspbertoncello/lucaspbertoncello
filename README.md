@@ -1,5 +1,5 @@
 # Hi, my name is Lucas!
-🚀 Front-end developer<br>🚀 Looking for an opportunity<br>🚀 Studying computer science at PUCPR<br>
+🚀 Software developer<br>🚀 Looking for an opportunity<br>🚀 Studying computer science at PUCPR<br>
 
 # About
 I'm a JavaScript enthusiast, currently studying ReactJS and developing a few projects.<br>
