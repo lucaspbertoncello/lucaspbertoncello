@@ -2,7 +2,7 @@
 🚀 Software developer<br>🚀 Looking for an opportunity<br>🚀 Studying computer science at PUCPR<br>
 
 # About
-I'm a JavaScript enthusiast, currently studying ReactJS and developing a few projects.<br>
+I'm a JavaScript enthusiast, currently studying ReactJS / NodeJS and developing a few projects.<br>
 I have experience with the following technologies:<br>
 <ul>
   <li>HTML5</li>
