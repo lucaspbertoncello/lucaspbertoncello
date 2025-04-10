@@ -5,14 +5,11 @@
 I'm a JavaScript enthusiast, currently studying ReactJS / NodeJS and developing a few projects.<br>
 I have experience with the following technologies:<br>
 <ul>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
+  <li>HTML5 / CSS3</li>
+  <li>JavaScript / TypeScript</li>
   <li>TailwindCSS</li>
   <li>ReactJS</li>
-  <li>MySQL</li>
-  <li>PostgreSQL</li>
+  <li>MySQL / PostgreSQL</li>
   <li>A little bit of UX/UI</li>
 </ul>
 <br>
