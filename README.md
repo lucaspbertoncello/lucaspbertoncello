@@ -9,6 +9,7 @@ I have experience with the following technologies:<br>
   <li>JavaScript / TypeScript</li>
   <li>TailwindCSS</li>
   <li>ReactJS</li>
+  <li>NodeJS</li>
   <li>MySQL / PostgreSQL</li>
   <li>A little bit of UX/UI</li>
 </ul>
