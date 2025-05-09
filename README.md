@@ -1,37 +1,28 @@
-# Hi, my name is Lucas!
-🚀 Software developer<br>🚀 Looking for an opportunity<br>🚀 Studying computer science at PUCPR<br>
+<h1>👋 &nbsp;Hi! I'm Lucas</h1>
+<a href="https://instagram.com/lucas.bertoncello"><img src="https://img.shields.io/badge/-@lucas.bertoncello_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://lucasbertoncello.vercel.app"><img src="https://img.shields.io/badge/-lucasbertoncello.vercel.app-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/lucas-bertoncello-05786a237/"><img src="https://img.shields.io/badge/-Lucas%20Bertoncello-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:lucasbertoncello1@gmail.com"><img src="https://img.shields.io/badge/-lucasbertoncello1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-# About
-I'm a JavaScript enthusiast, currently studying ReactJS / NodeJS and developing a few projects.<br>
-I have experience with the following technologies:<br>
-<ul>
-  <li>HTML5 / CSS3</li>
-  <li>JavaScript / TypeScript</li>
-  <li>TailwindCSS</li>
-  <li>ReactJS</li>
-  <li>NodeJS</li>
-  <li>MySQL / PostgreSQL</li>
-  <li>A little bit of UX/UI</li>
-</ul>
-<br>
-Constantly learning...
+<h2> 👨🏻‍💻 &nbsp;About Me </h2>
+I'm a JavaScript enthusiast, currently studying ReactJS and NodeJS and developing a few projects.<br>
 
-# Contact
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
 
-<div align="left">
-  <a href="mailto:lucasbertoncello1@gmail.com" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
-      height="35"
-      alt="gmail logo"
-    />
-  </a>
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
-  <a href="https://www.linkedin.com/in/lucas-bertoncello-05786a237/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-      height="35"
-      alt="linkedin logo"
-    />
-  </a>
-</div>
+<h3>⚙️ &nbsp;Back-end and database:</h3>
+
+![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
