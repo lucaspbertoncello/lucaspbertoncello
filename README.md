@@ -16,13 +16,19 @@ I'm a JavaScript enthusiast, currently studying ReactJS and NodeJS and developin
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-333333?style=flat&logo=reacthookform)
 ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs)
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Zod](https://img.shields.io/badge/-Zod-333333?style=flat&logo=zod)
 
 <h3>⚙️ &nbsp;Back-end and database:</h3>
 
 ![Node](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E0234E)
+![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=jsonwebtokens&logoColor=F7DF1E)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma&logoColor=22716c)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Zod](https://img.shields.io/badge/-Zod-333333?style=flat&logo=zod)
