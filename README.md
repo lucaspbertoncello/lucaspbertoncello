@@ -18,7 +18,6 @@ I'm a JavaScript enthusiast, currently studying React and Node and developing a 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-333333?style=flat&logo=reacthookform)
 ![Zod](https://img.shields.io/badge/-Zod-333333?style=flat&logo=zod)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 <h3>⚙️ &nbsp;Back-end and database:</h3>
 
