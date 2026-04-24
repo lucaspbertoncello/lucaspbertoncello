@@ -5,7 +5,7 @@
 <a href="mailto:lucasbertoncello1@gmail.com"><img src="https://img.shields.io/badge/-lucasbertoncello1@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
-I'm a JavaScript enthusiast, currently studying React and Node and developing a few projects.<br>
+I'm a Software Engineer, currently studying Typescript & Go & AWS and developing a few projects.<br>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
